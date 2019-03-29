@@ -2,6 +2,9 @@
 
 [New Age](http://startbootstrap.com/template-overviews/new-age/) is a web app landing page theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
+
+![c](https://user-images.githubusercontent.com/48826021/55211658-6224d680-5230-11e9-919c-a1d89beeae3c.gif)
+
 ## Preview
 
 [![New Age Preview](https://startbootstrap.com/assets/img/screenshots/themes/new-age.png)](https://blackrockdigital.github.io/startbootstrap-new-age/)
