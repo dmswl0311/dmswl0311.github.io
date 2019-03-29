@@ -2,9 +2,6 @@
 
 [New Age](http://startbootstrap.com/template-overviews/new-age/) is a web app landing page theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
-
-![c](https://user-images.githubusercontent.com/48826021/55211658-6224d680-5230-11e9-919c-a1d89beeae3c.gif)
-
 ## Preview
 
 [![New Age Preview](https://startbootstrap.com/assets/img/screenshots/themes/new-age.png)](https://blackrockdigital.github.io/startbootstrap-new-age/)
@@ -32,6 +29,9 @@ To begin using this template, choose one of the following options to get started
 ### Basic Usage
 
 After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+
+![c](https://user-images.githubusercontent.com/48826021/55211658-6224d680-5230-11e9-919c-a1d89beeae3c.gif)
+
 
 ### Advanced Usage
 
