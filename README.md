@@ -16,8 +16,6 @@
 [![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-new-age/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-new-age)
 [![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-new-age/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-new-age?type=dev)
 
-![c](https://user-images.githubusercontent.com/48826021/55242970-a8565600-5281-11e9-85fd-59f4e01fa3b7.gif)
-
 
 ## Download and Installation
 
